@@ -1,10 +1,24 @@
-# linear_Regression_python
-my project in TNI
+## 📝 Agenda
 
-# Find Linear equation that fit following data
-* Plot the data
-* Plot the linear equation
+1.Introduction
+- Introduce the topic of analysis and the application of Linear Regression
+- Explain the objective of this study (e.g., prediction or finding the relationship between variables like height and weight)
 
-x = [-0.1382643, -0.46947439,  0.76743473, -0.23413696, -0.23415337,  0.54256004,  0.49671415,  1.52302986,  1.57921282,  0.64768854,]
+2.Theory and Concept
+- Explain the principles of Linear Regression and the Least Squares Method (LSM)
+- Calculation of regression coefficients from the linear regression equation
+- Polynomial regression for improving prediction accuracy
 
-y = [-2.97603162, -8.88788838, 13.58267603, -5.01913245, -3.84927043,  8.79528589, 8.74581338, 28.16767021, 28.50000881, 10.47032021]
+3.Code Implementation
+- Import libraries and prepare sample data (e.g., using NumPy and Matplotlib)
+- Create the data matrix and calculate coefficients using matrix multiplication
+- Plot the Linear Regression and Polynomial Fit graphs for comparison
+
+4.Results and Discussion
+- Display the results obtained from calculating the coefficients
+- Explain the graphs and how weight is predicted from height
+- Analyze the results and discuss the accuracy of the predictions
+
+5.Conclusion
+- Summarize the experiment and the use of Linear Regression for predicting quantitative data
+- Provide suggestions for applying this method to other data predictions
